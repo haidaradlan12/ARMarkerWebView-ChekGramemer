@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Obstreperous" size="1.000000 0.950000" />
+    <ImageTarget name="Pristine" size="1.000000 0.950000" />
+    <ImageTarget name="Queue" size="1.000000 0.950000" />
+    <ImageTarget name="Adorable" size="1.000000 0.950000" />
+    <ImageTarget name="Incumbent" size="1.000000 0.950000" />
+    <ImageTarget name="TV" size="1.000000 0.739601" />
+    <ImageTarget name="Sapu" size="1.000000 1.000000" />
+    <ImageTarget name="Kursi" size="1.000000 1.000000" />
+    <ImageTarget name="Gunting" size="1.000000 1.000000" />
+    <ImageTarget name="Buku" size="1.000000 1.233141" />
+  </Tracking>
+</QCARConfig>
